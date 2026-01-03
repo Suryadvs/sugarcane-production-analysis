@@ -11,7 +11,7 @@ A step-by-step Data Analysis on the World-wide Sugarcane production dataset (Dat
 - Clone this repository by running the below line
   
 ```cmd
-git clone https://github.com/Nialled69/Sugarcane-Production-Project.git
+git clone <github repo>
 ```
 
 ## Project Features
